@@ -8,5 +8,6 @@ impl Adder {
 }
 
 fn main() {
+    let _a = Adder::new();
     println!("Hello, world!");
 }
